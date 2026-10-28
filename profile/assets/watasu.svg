@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none" role="img" aria-label="Watasu">
+  <rect width="128" height="128" rx="28" fill="#FF5A1F"/>
+  <path d="M26 40 L49 96 L64 64 L79 96 L102 40"
+        stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
