@@ -26,8 +26,11 @@ Watasu brings application hosting, isolated agent sandboxes, and managed data se
   <tr>
     <td width="50%" valign="top">
       <h3>Ship your application</h3>
-      <p>Push code or connect GitHub. Build with your Dockerfile or automatic language detection, then run web apps, APIs, background workers, and private services.</p>
-      <p>Scale each process independently. Preview pull requests. Promote the same tested image from staging to production.</p>
+      <p>Push code directly with Git, or connect your GitHub repository.</p>
+      <p>Use your own Dockerfile, or rely on automatic language detection:</p>
+      <p><strong>Node.js · Python · Ruby · Go · Elixir · PHP</strong></p>
+      <p>Run web apps, APIs, background workers, and private services. Scale each process independently.</p>
+      <p>Preview pull requests, then promote your tested build from staging to production.</p>
       <p><a href="https://docs.watasu.io/getting-started/quickstart/"><strong>Deploy your first app →</strong></a></p>
     </td>
     <td width="50%" valign="top">
